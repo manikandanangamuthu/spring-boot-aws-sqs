@@ -1,9 +1,9 @@
 # Spring Boot AWS SQS
 
 SQS is a distributed queuing system, which gives access to a message queue that you can use to store 
-messages while waiting for the end system to process it
+messages while waiting for the end system to process it.
 
-There are two types of SQS queues
+There are two types of SQS queues:
 
     Standard and FIFO queues
 
